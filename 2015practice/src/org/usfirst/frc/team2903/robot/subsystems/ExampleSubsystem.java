@@ -4,7 +4,7 @@ package org.usfirst.frc.team2903.robot.subsystems;
 import edu.wpi.first.wpilibj.command.Subsystem;
 
 /**
- *
+ * Example
  */
 public class ExampleSubsystem extends Subsystem {
     
