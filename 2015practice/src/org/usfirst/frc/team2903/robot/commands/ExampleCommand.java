@@ -6,7 +6,7 @@ import edu.wpi.first.wpilibj.command.Command;
 import org.usfirst.frc.team2903.robot.Robot;
 
 /**
- *
+ * Example
  */
 public class ExampleCommand extends Command {
 
